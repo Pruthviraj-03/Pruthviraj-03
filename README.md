@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, fellow developers! Welcome to my GitHub profile. 🚀 I'm passionate about mern stack development and love working on challenging projects.
+👋 Hey there! Welcome to my GitHub profile. 🚀<br>I'm a Full Stack Developer with almost 1 year of experience, currently working at The Hostellers. I specialize in the MERN stack, and I’m also diving into GraphQL, Next.js, and Tailwind CSS to expand my skillset.<br><br>I graduated with a B.Sc. in IT, and I’m always learning new technologies to keep up with the fast-paced world of development.<br>Feel free to check out my repositories and connect with me for any interesting collaborations!
 
 
 ## 🌐 Socials:
